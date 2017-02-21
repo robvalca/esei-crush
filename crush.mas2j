@@ -1,0 +1,14 @@
+/* Jason Project */
+
+MAS crush {
+
+    infrastructure: Centralised
+
+    environment: Blackboard
+
+    agents: player;
+
+            judge;
+
+}
+
