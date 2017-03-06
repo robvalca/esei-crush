@@ -4,7 +4,7 @@ MAS crush {
 
     infrastructure: Centralised
 
-    environment: Blackboard
+    environment: Tablero
 
     agents: player;
 
